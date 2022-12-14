@@ -1,24 +1,10 @@
-# openweatherpj
+# 天気予報アプリ
 
-## Project setup
-```
-yarn install
-```
+## 作成した目的
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Vue.js の理解を深めるため
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 機能一覧
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 地域一覧表示
+- 各地域の天気の詳細表示（気温、温度、湿度、風速）
