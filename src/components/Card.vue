@@ -12,7 +12,9 @@
 
 <script>
 export default {
-  props: ['city']
+  props: {
+    city: String
+  }
 }
 </script>
 
